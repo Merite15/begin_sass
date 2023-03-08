@@ -4,16 +4,16 @@
   "description": "Joe Blow's portfolio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "sass --watch ./sass/main.scss:./public/css/style.css"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gerkx/maintainable-css-with-sass.git"
+    "url": "git+https://github.com/Merite15/begin_sass.git"
   },
   "author": "gerkx",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gerkx/maintainable-css-with-sass/issues"
+    "url": "https://github.com/Merite15/begin_sass.git/issues"
   },
-  "homepage": "https://github.com/gerkx/maintainable-css-with-sass#readme"
+  "homepage": "https://github.com/Merite15/begin_sass.git#readme"
 }
